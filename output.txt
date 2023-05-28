@@ -1,0 +1,240 @@
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
+No tests found related to files changed since last commit.
+onRunStart: numTotalTestSuites: 0
+onRunComplete
+Test results written to: C:\Users\Dpk\AppData\Local\Temp\jest_runner_lift_state_up_3_nikhil_rawat02_dpk.json
+
